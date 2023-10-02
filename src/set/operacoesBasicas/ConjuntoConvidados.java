@@ -1,6 +1,4 @@
-package set;
-
-import org.w3c.dom.ls.LSOutput;
+package set.operacoesBasicas;
 
 import java.util.HashSet;
 import java.util.Set;
